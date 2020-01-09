@@ -4,13 +4,13 @@ Version: 600.1302-16
 Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
-Homepage: https://dirtybeans.github.io 
+Homepage: https://dirtybeans.github.io/beta 
 Recommends: com.dirtybeans.icon
 Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/csources2.html
+Depiction: https://dirtybeans.github.io/beta/csources2.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -30,13 +30,13 @@ Version: 600.1302-6
 Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
-Homepage: https://dirtybeans.github.io 
+Homepage: https://dirtybeans.github.io/beta
 Recommends: com.dirtybeans.icon
 Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/csources2.html
+Depiction: https://dirtybeans.github.io/beta/csources2.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -55,13 +55,13 @@ Version: 600.1302-1
 Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
-Homepage: https://dirtybeans.github.io 
+Homepage: https://dirtybeans.github.io/beta 
 Recommends: com.dirtybeans.icon
 Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/csources2.html
+Depiction: https://dirtybeans.github.io/beta/csources2.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -81,9 +81,9 @@ Installed-Size: 257
 Architecture: iphoneos-arm
 Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
-Homepage: http://dirtybeans.github.io
+Homepage: http://dirtybeans.github.io/beta
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: http://dirtybeans.github.io/dbsicons.html
+Depiction: http://dirtybeans.github.io/beta/dbsicons.html
 Sponsor: DirtyBeans
 Section: Repositories
 Icon: file:///Applications//Cydia.app/Sources/dirtybeans.com.png
