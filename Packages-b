@@ -4,7 +4,7 @@ Version: 600.1302-16
 Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
-Homepage: https://dirtybeans.github.io/beta 
+Homepage: https://dirtybeans.github.io/beta
 Recommends: com.dirtybeans.icon
 Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
@@ -55,7 +55,7 @@ Version: 600.1302-1
 Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
-Homepage: https://dirtybeans.github.io/beta 
+Homepage: https://dirtybeans.github.io/beta
 Recommends: com.dirtybeans.icon
 Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
