@@ -21,8 +21,8 @@ Description: CSources2.app
 Icon: file:///Applications/CSources2.app/AppIcon57x57.png
 Filename: ./debs/com.dirtybeans.csources2_600.1302-22_iphoneos-arm.deb
 Size: 25866862
-MD5sum: 220DA2D965F35C1E8BE8335FF89A87DE
-SHA-256: C8D730EF4917D3B88434579B2C68FCDFD1D4CC59C2ED91F1971B4D25A7AAB4A8
+MD5sum: 220da2d965f35c1e8be8335ff89a87de
+SHA-256: c8d730ef4917d3b88434579b2c68fcdfd1d4cc59c2ed91f1971b4d25a7aab4a8
 
 Package: com.dirtybeans.csources2
 Name: CSources2
