@@ -1,6 +1,6 @@
 Package: com.dirtybeans.csources2
 Name: CSources2
-Version: 600.1302-28
+Version: 600.1302-29
 Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
@@ -19,10 +19,10 @@ dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
 Icon: file:///Applications/CSources2.app/AppIcon57x57.png
-Filename: ./debs/com.dirtybeans.csources2_600.1302-28_iphoneos-arm.deb
-Size: 25730022
-MD5sum: cd2077cabe461daea0337e59e94b464a
-SHA-256: 66c796d2ff200da0b63591a8d5fb1588c39e34a5b158aa2cd0068605f0c1a841
+Filename: ./debs/com.dirtybeans.csources2_600.1302-29_iphoneos-arm.deb
+Size: 25729302
+MD5sum: f7a7df0db74affcfa22c1fc2bc81c9a9
+SHA-256: 9b1b0ef75a9844525810488b31696185b6901ae6558b5ef6f951c178d3e7ec76
 
 Package: com.dirtybeans.csources2
 Name: CSources2
