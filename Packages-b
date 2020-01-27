@@ -16,7 +16,7 @@ Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
 Section: Utilities
 dev: dirtybeans
-Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
 Icon: file:///Applications/CSources2.app/AppIcon57x57.png
 Filename: ./debs/com.dirtybeans.csources2_933.1313-25_iphoneos-arm.deb
