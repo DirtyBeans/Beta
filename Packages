@@ -10,7 +10,7 @@ Pre-Depends: firmware (>= 9.3.3)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/csources2.html
+Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -18,7 +18,7 @@ Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1313-26_iphoneos-arm.deb
 Size: 26006380
 MD5sum: c66214c12695e830a9764bfce43d2ddf
@@ -36,7 +36,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/csources2.html
+Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -44,7 +44,7 @@ Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1313-18_iphoneos-arm.deb
 Size: 25818802
 MD5sum: 362a8ee1d845271c6f5b7a949a86013b
@@ -62,7 +62,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/csources2.html
+Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -70,7 +70,7 @@ Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1313-16_iphoneos-arm.deb
 Size: 25829572
 MD5sum: 20d6a450357bf801aac3f0b8f6d098b4
@@ -88,7 +88,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/csources2.html
+Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -96,7 +96,7 @@ Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1313-12_iphoneos-arm.deb
 Size: 25777630
 MD5sum: bbdb309b7ff2bc9ceac6a0ba59c4786a
@@ -114,7 +114,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/csources2.html
+Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -122,7 +122,7 @@ Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1313-1_iphoneos-arm.deb
 Size: 25738734
 MD5sum: 6dbb34a1b18aba8e61fabf87e235825b
@@ -140,7 +140,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/csources2.html
+Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -148,7 +148,7 @@ Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_600.1302-29_iphoneos-arm.deb
 Size: 25729302
 MD5sum: f7a7df0db74affcfa22c1fc2bc81c9a9
@@ -166,7 +166,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/csources2.html
+Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -174,7 +174,7 @@ Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_600.1302-6_iphoneos-arm.deb
 Size: 29177434
 MD5sum: 5594d8bccc8478da9bfd433c6867c1cb
@@ -191,7 +191,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/csources2.html
+Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -199,7 +199,7 @@ Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_600.1302-1_iphoneos-arm.deb
 Size: 30708550
 MD5sum: 292c5f2544389f6d97057b8b70beeaf9
@@ -216,7 +216,7 @@ Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Depiction: http://dirtybeans.github.io/beta/dbsicons.html
 Sponsor: DirtyBeans
 Section: Repositories
-Icon: file:///Applications//Cydia.app/Sources/dirtybeans.com.png
+Icon: https://dirtybeans.github.io/beta/images/Sources/dirtybeans.com.png
 Description: Install's DirtyBeans Beta Icons.
 Filename: ./debs/com.dirtybeans.github.io.dbsicons_1.0-2_iphoneos-arm.deb
 Size: 176654
