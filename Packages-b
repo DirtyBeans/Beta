@@ -215,7 +215,7 @@ Homepage: https://dirtybeans.github.io/beta
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Depiction: https://dirtybeans.github.io/beta/AppsEtc/icon/depiction.html
 Sponsor: DirtyBeans
-Section: Repositories
+Section: DirtyBeans
 Icon: https://dirtybeans.github.io/beta/images/Sources/dirtybeans.com.png
 Description: Install's DirtyBeans Icons.
 Filename: ./debs/com.dirtybeans.github.io.dbsicons_1.0-2_iphoneos-arm.deb
