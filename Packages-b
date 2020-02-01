@@ -1,6 +1,6 @@
 Package: com.dirtybeans.csources2
 Name: CSources2
-Version: 933.1313-26
+Version: 933.1313-28
 Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
@@ -19,10 +19,10 @@ dev: dirtybeans
 Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
 Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
-Filename: ./debs/com.dirtybeans.csources2_933.1313-26_iphoneos-arm.deb
-Size: 26006380
-MD5sum: c66214c12695e830a9764bfce43d2ddf
-SHA-256: 3bfc144ca9d413248be837c6ee047088c23fa1e31cd1c0295f35fbf3c85f0bc3
+Filename: ./debs/com.dirtybeans.csources2_933.1313-28_iphoneos-arm.deb
+Size: 26002102
+MD5sum: 8819513fdb00f727900e74725848f07d
+SHA-256: 9de974d1ddcb9275f912ce6bcfd3ff226fff51de5dae6e55ef8b7f8b17d8679d
 
 Package: com.dirtybeans.csources2
 Name: CSources2
@@ -178,31 +178,6 @@ Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_600.1302-6_iphoneos-arm.deb
 Size: 29177434
 MD5sum: 5594d8bccc8478da9bfd433c6867c1cb
-
-Package: com.dirtybeans.csources2
-Name: CSources2
-Version: 600.1302-1
-Installed-Size: 18098
-Priority: extra
-Architecture: iphoneos-arm
-Homepage: https://dirtybeans.github.io/beta
-Recommends: com.dirtybeans.icon
-Pre-Depends: firmware (>= 6.0.0)
-Conflicts: org.thebigboss.csources
-Replaces: org.thebigboss.csources
-Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/beta/AppsEtc/csources2/depiction.html
-Sponsor: Dirty Beans
-Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
-Suggests: com.dirtybeans.icon
-Section: Utilities
-dev: dirtybeans
-Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Description: CSources2.app
-Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
-Filename: ./debs/com.dirtybeans.csources2_600.1302-1_iphoneos-arm.deb
-Size: 30708550
-MD5sum: 292c5f2544389f6d97057b8b70beeaf9
 
 Package: com.dirtybeans.github.io.dbsicons
 Name: DBs Icons
