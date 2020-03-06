@@ -20,7 +20,7 @@ Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, com
 Description: CSources2.app
 Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1331-10_iphoneos-arm.deb
-Size: 26779280
+Size: 26776280
 MD5sum: 0affc1e32deb2e4edf575524db853583
 SHA-256: 56a1dad8500375ca19642be7170551cfb03171082f9a03cfb6589cacd3082cac
 
